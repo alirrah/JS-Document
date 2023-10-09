@@ -61,3 +61,33 @@ atom
 we use vs code
 
 we can download node to run js code but it`s not nessary becuase we can excute js code in broswer
+
+## to run code we need Script element
+we can write in two place:
+
+1. in head section
+2. at end of body section -> best option
+
+two reason is best:
+* run code from top to bottom -> if javaScript in head may broswer become busy and page not load -> bad user experinse
+* javaScript code almost code in html part
+
+but it`s not always
+sometimes must put it in head section
+
+```html
+<script>
+    console.log('hello world');
+</script>
+```
+
+statement is a pis of code that express an action to be carry out
+
+at the and of each statement we have ; 
+
+string is secuns of characters
+
+
+comment start with //
+
+comment not excute and only show others why we write this codes
