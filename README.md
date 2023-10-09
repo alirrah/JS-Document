@@ -103,3 +103,15 @@ EX:
 ```html
 <script src="index.js"></script>
 ```
+
+## to run js code with node
+open terminal or cmd
+and head it to the folder
+and write node ADDRESS
+
+EX:
+
+```bash
+node index.js
+```
+
