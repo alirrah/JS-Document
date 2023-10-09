@@ -52,3 +52,12 @@ console.log('Hello Wolrd');
 2 + 2;
 alert('yo');
 ```
+
+## we need a code editor:
+vs code
+sublime text
+atom
+
+we use vs code
+
+we can download node to run js code but it`s not nessary becuase we can excute js code in broswer
