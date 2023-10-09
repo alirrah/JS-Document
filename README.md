@@ -91,3 +91,15 @@ string is secuns of characters
 comment start with //
 
 comment not excute and only show others why we write this codes
+
+## in real application with millon lines of js code, so we write js code in spreate files
+
+```html
+<script src="ADDRESS"></script>
+```
+
+EX:
+
+```html
+<script src="index.js"></script>
+```
